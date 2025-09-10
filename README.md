@@ -22,9 +22,9 @@ A simple e-commerce cart built using React and FakeStore API. Users can view pro
 
 ## 📷 Screenshot
 
-![Home Page](./screenshots/Home_Page.png)
-![View Product Page](./screenshots/Product.png)
-![Add To Cart Page](./screenshots/Cart.png)
+![Home Page](screenshots/Home_Page.png)
+![View Product Page](screenshots/Product.png)
+![Add To Cart Page](screenshots/Cart.png)
 
 ## ⚙️ Installation
 
@@ -32,6 +32,6 @@ A simple e-commerce cart built using React and FakeStore API. Users can view pro
 git clone https://github.com/MannJariwala/React-E-Commerce-Cart.git
 cd ecommerce-cart
 npm install
-npm start
+npm run dev
 ```
 ````
