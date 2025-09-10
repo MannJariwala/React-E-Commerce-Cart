@@ -20,12 +20,6 @@ A simple e-commerce cart built using React and FakeStore API. Users can view pro
 - FakeStore API
 - CSS
 
-## 📷 Screenshot
-
-![Home Page](screenshots/Home_Page.png)
-![View Product Page](screenshots/Product.png)
-![Add To Cart Page](screenshots/Cart.png)
-
 ## ⚙️ Installation
 
 ```bash
